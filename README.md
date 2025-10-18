@@ -33,5 +33,5 @@ My work blends engineering precision with curiosity — from integrating complex
 ---
 
 ### 📫 Connect
-- [LinkedIn](https://linkedin.com/in/hengkykurniawan)  
-- [GitHub](https://github.com/hengkykurniawan)
+- [LinkedIn](https://linkedin.com/in/hk0104)  
+- [GitHub](https://github.com/hengky-kurniawan-1)
